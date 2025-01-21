@@ -1,4 +1,11 @@
-## Hi there 👋
+## Introducing Myself
+
+Hello, I'm Noah, a Financial Analyst interested in data science and analytics.
+
+### Tools
+- Analytics: Python, SQL, VBA
+- Visualizations: Tableau, Python (Matplotlib, Seaborn, Plotly Dash)
+
 
 <!--
 **noahkims/noahkims** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
