@@ -2,9 +2,12 @@
 
 Hello, I'm Noah, a Financial Analyst interested in data science and analytics.
 
-### Tools
+### 🛠 Tools
 - Analytics: Python, SQL, VBA
 - Visualizations: Tableau, Python (Matplotlib, Seaborn, Plotly Dash)
+
+### 💡 Projects
+
 
 
 <!--
