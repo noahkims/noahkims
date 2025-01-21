@@ -9,7 +9,7 @@ Hello, I'm Noah, a Financial Analyst interested in data science and analytics.
 ### 💡 Projects
 A recent project I enjoyed working on was building a [Bouldering Route Recommendation System](https://github.com/noahkims/Bouldering-Recommendation-System), using web scraping and a clustering model to provide recs for my next climbing trip to Joshua Tree.
 
-You can also find a collection of other projects I've worked on [here](https://github.com/noahkims/Bouldering-Recommendation-System)!
+You can also find a collection of other projects I've worked on [here](https://github.com/noahkims/Portfolio-Guide)!
 
 ### Connect With Me
 - [Linkedin](https://www.linkedin.com/in/noahskim/)
