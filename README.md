@@ -2,16 +2,14 @@
 
 Hello, I'm Noah, a Financial Analyst interested in data science and analytics.
 
-If you'd like to briefly view some of my projects, please reference my [Portfolio Guide](https://github.com/noahkims/Portfolio-Guide)!
+A recent project I enjoyed working on was building a [Bouldering Route Recommendation System](https://github.com/noahkims/Bouldering-Recommendation-System), using web scraping and TF-IDF and cosine similarity to provide recs for my next climbing trip to Joshua Tree.
+
+You can also find a collection of other projects I've worked on [here](https://github.com/noahkims/Portfolio-Guide)!
 
 ### 🛠 Tools
 - Analytics: Python, SQL, VBA
 - Visualizations: Tableau, Python (Matplotlib, Seaborn, Plotly Dash)
 
-### 💡 Projects
-A project I enjoyed working on was building a [Bouldering Route Recommendation System](https://github.com/noahkims/Bouldering-Recommendation-System), using web scraping and TF-IDF and cosine similarity to provide recs for my next climbing trip to Joshua Tree.
-
-You can also find a collection of other projects I've worked on [here](https://github.com/noahkims/Portfolio-Guide)!
 
 ### Connect With Me
 - [Linkedin](https://www.linkedin.com/in/noahskim/)
