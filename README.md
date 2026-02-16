@@ -8,7 +8,7 @@ You can find my website [here](https://noahkims.github.io/Portfolio/).
 - Visualizations: Tableau, Python (Matplotlib, Seaborn, Plotly Dash)
 
 ### 💡 Projects
-A recent project I enjoyed working on was building a [Bouldering Route Recommendation System](https://github.com/noahkims/Bouldering-Recommendation-System), using web scraping and a clustering model to provide recs for my next climbing trip to Joshua Tree.
+A project I enjoyed working on was building a [Bouldering Route Recommendation System](https://github.com/noahkims/Bouldering-Recommendation-System), using web scraping and TF-IDF and cosine similarity to provide recs for my next climbing trip to Joshua Tree.
 
 You can also find a collection of other projects I've worked on [here](https://github.com/noahkims/Portfolio-Guide)!
 
