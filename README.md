@@ -1,7 +1,9 @@
 ## Welcome To My Profile!
 
 Hello, I'm Noah, a Financial Analyst interested in data science and analytics.
+
 If you'd like to briefly view some of my projects, please reference my [Portfolio Guide](https://github.com/noahkims/Portfolio-Guide)!
+
 You can also find some of my other projects on my [website](https://noahkims.github.io/Portfolio/).
 
 ### 🛠 Tools
